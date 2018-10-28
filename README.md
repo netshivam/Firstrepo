@@ -1,2 +1,3 @@
 # Firstrepo
-New to git community
+
+Repository as a placeholder for ongoing projects.
